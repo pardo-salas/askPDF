@@ -1,1 +1,0 @@
-info?.ocr?.adv_ocr?.data
