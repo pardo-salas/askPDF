@@ -1,4 +1,5 @@
 <template>
+  <p class="opacity-75 font-medium m-2">Upload your pdf and ask</p>
     <FwbFileInput v-model="files" dropzone @change="handleFileSelected"/>
 </template>
 
